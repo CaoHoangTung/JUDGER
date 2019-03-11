@@ -1,0 +1,127 @@
+﻿user16‣ssvalue: 62.50
+ssvalue.cpp
+Dịch thành công
+
+user16‣ssvalue‣Test00z: 0.00
+Thời gian ≈ 0.017054440 giây
+PASSED!
+user16‣ssvalue‣Test01a: 2.50
+Thời gian ≈ 0.016568118 giây
+PASSED!
+user16‣ssvalue‣Test01b: 0.00
+Thời gian ≈ 0.016526637 giây
+Wrong: ANS[1] vs. OUT[-1]!
+user16‣ssvalue‣Test01c: 2.50
+Thời gian ≈ 0.016584711 giây
+PASSED!
+user16‣ssvalue‣Test01y: 2.50
+Thời gian ≈ 0.016629748 giây
+PASSED!
+user16‣ssvalue‣Test02a: 2.50
+Thời gian ≈ 0.015449697 giây
+PASSED!
+user16‣ssvalue‣Test02b: 2.50
+Thời gian ≈ 0.016103525 giây
+PASSED!
+user16‣ssvalue‣Test02c: 0.00
+Thời gian ≈ 0.016711921 giây
+Wrong: ANS[2] vs. OUT[-1]!
+user16‣ssvalue‣Test02y: 2.50
+Thời gian ≈ 0.016108661 giây
+PASSED!
+user16‣ssvalue‣Test03a: 2.50
+Thời gian ≈ 0.017307675 giây
+PASSED!
+user16‣ssvalue‣Test03b: 2.50
+Thời gian ≈ 0.020705210 giây
+PASSED!
+user16‣ssvalue‣Test03c: 0.00
+Thời gian ≈ 0.062586148 giây
+Wrong: ANS[29] vs. OUT[-1]!
+user16‣ssvalue‣Test03y: 2.50
+Thời gian ≈ 0.016929600 giây
+PASSED!
+user16‣ssvalue‣Test04a: 0.00
+Thời gian ≈ 0.044046274 giây
+Wrong: ANS[4] vs. OUT[-1]!
+user16‣ssvalue‣Test04b: 0.00
+Thời gian ≈ 0.039851504 giây
+Wrong: ANS[702] vs. OUT[-1]!
+user16‣ssvalue‣Test04c: 2.50
+Thời gian ≈ 0.056448857 giây
+PASSED!
+user16‣ssvalue‣Test04y: 2.50
+Thời gian ≈ 1.884608258 giây
+PASSED!
+user16‣ssvalue‣Test05a: 0.00
+Thời gian ≈ 0.156371148 giây
+Wrong: ANS[19] vs. OUT[-1]!
+user16‣ssvalue‣Test05b: 2.50
+Thời gian ≈ 0.065509609 giây
+PASSED!
+user16‣ssvalue‣Test05c: 0.00
+Thời gian ≈ 0.193936822 giây
+Wrong: ANS[3] vs. OUT[-1]!
+user16‣ssvalue‣Test06a: 2.50
+Thời gian ≈ 0.177873198 giây
+PASSED!
+user16‣ssvalue‣Test06b: 2.50
+Thời gian ≈ 0.695198454 giây
+PASSED!
+user16‣ssvalue‣Test06c: 2.50
+Thời gian ≈ 0.344967125 giây
+PASSED!
+user16‣ssvalue‣Test07a: 2.50
+Thời gian ≈ 0.159104189 giây
+PASSED!
+user16‣ssvalue‣Test07b: 2.50
+Thời gian ≈ 0.169285731 giây
+PASSED!
+user16‣ssvalue‣Test07c: 0.00
+Thời gian ≈ 0.349916464 giây
+Wrong: ANS[1066] vs. OUT[-1]!
+user16‣ssvalue‣Test08a: 2.50
+Thời gian ≈ 0.561757110 giây
+PASSED!
+user16‣ssvalue‣Test08b: 0.00
+Thời gian ≈ 0.505549636 giây
+Wrong: ANS[1093] vs. OUT[-1]!
+user16‣ssvalue‣Test08c: 2.50
+Thời gian ≈ 0.711252991 giây
+PASSED!
+user16‣ssvalue‣Test09a: 2.50
+Thời gian ≈ 1.115010112 giây
+PASSED!
+user16‣ssvalue‣Test09b: 0.00
+Thời gian ≈ 1.079944786 giây
+Wrong: ANS[4692] vs. OUT[-1]!
+user16‣ssvalue‣Test09c: 0.00
+Thời gian ≈ 1.256867860 giây
+Wrong: ANS[1402] vs. OUT[-1]!
+user16‣ssvalue‣Test10a: 2.50
+Thời gian ≈ 1.053636804 giây
+PASSED!
+user16‣ssvalue‣Test10b: 2.50
+Thời gian ≈ 1.341791615 giây
+PASSED!
+user16‣ssvalue‣Test10c: 0.00
+Thời gian ≈ 1.420275856 giây
+Wrong: ANS[15008] vs. OUT[-1]!
+user16‣ssvalue‣Test11a: 2.50
+Thời gian ≈ 1.975783873 giây
+PASSED!
+user16‣ssvalue‣Test11b: 0.00
+Thời gian ≈ 1.824401965 giây
+Wrong: ANS[3243] vs. OUT[-1]!
+user16‣ssvalue‣Test11c: 0.00
+Thời gian ≈ 1.687508173 giây
+Wrong: ANS[68] vs. OUT[-1]!
+user16‣ssvalue‣Test12a: 0.00
+Thời gian ≈ 1.944342057 giây
+Wrong: ANS[10415] vs. OUT[-1]!
+user16‣ssvalue‣Test12b: 2.50
+Thời gian ≈ 1.964940995 giây
+PASSED!
+user16‣ssvalue‣Test12c: 2.50
+Thời gian ≈ 1.838323166 giây
+PASSED!

@@ -1,0 +1,6 @@
+[Mon Mar 11 15:12:54.342912 2019] [core:warn] [pid 14012:tid 608] AH00098: pid file C:/Users/DELL7470/Desktop/work/JUDGER/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 11 15:12:54.382913 2019] [mpm_winnt:notice] [pid 14012:tid 608] AH00455: Apache/2.4.25 (Win32) PHP/7.1.1 configured -- resuming normal operations
+[Mon Mar 11 15:12:54.382913 2019] [mpm_winnt:notice] [pid 14012:tid 608] AH00456: Apache Lounge VC14 Server built: Dec 17 2016 10:42:52
+[Mon Mar 11 15:12:54.382913 2019] [core:notice] [pid 14012:tid 608] AH00094: Command line: 'C:\\Users\\DELL7470\\Desktop\\work\\JUDGER\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/DELL7470/Desktop/work/JUDGER/core/apache2 -f C:\\Users\\DELL7470\\Desktop\\work\\JUDGER\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\DELL7470\\Desktop\\work\\JUDGER\\core\\apache2'
+[Mon Mar 11 15:12:54.386910 2019] [mpm_winnt:notice] [pid 14012:tid 608] AH00418: Parent: Created child process 12916
+[Mon Mar 11 15:12:56.352913 2019] [mpm_winnt:notice] [pid 12916:tid 660] AH00354: Child: Starting 150 worker threads.
